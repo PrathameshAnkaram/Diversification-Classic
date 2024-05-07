@@ -33,10 +33,7 @@ git clone https://github.com/yourusername/Diversification-Classic.git
 2. Navigate to the project directory:
 cd Diversification-Classic
 
-3. Install required Python packages:
-pip install -r requirements.txt
-
-4. Open the Jupyter notebooks in the src/ directory to view the analysis:
+3. Open the Jupyter notebooks in the src/ directory to view the analysis:
 jupyter notebook
 
 # Usage
